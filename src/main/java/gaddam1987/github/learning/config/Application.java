@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "gaddam1987.github.learning.test")
+@ComponentScan(basePackages = "gaddam1987.github.learning")
 public class Application {
 
     public static void main(String[] args) {
